@@ -51,6 +51,8 @@ Creative content (PDFs, stories, docs, art):
 Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)
 Learn more →
 
+Made with love, chaos, and peanut butter by [Old Dad](https://github.com/OldDad2025).
+
 ## 🚀 Quick Start
 
 1. Clone this repo  
