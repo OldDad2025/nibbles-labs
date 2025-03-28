@@ -27,6 +27,30 @@ She lives in the margins of your code, turns bugs into giggles, and helps parent
 - **VSCode + GitHub** for editing & sharing
 - Optional: HuggingFace, LM Studio, TTS, camera/audio tools, and tablet-friendly design
 
+# 🌈 What You Can Build
+
+- Silly Sound Machines
+- Dream DJs
+- Mood Art Generators
+- Bedtime Story Remixers
+- Stuffie Chatbots
+…and whatever weird magic your kiddo inspires
+
+# 🧠 Design Philosophy
+
+- Parenting should be open source
+- Emotions > efficiency
+- Weirdness is sacred
+- Kindness is hard-coded
+- Real-world > screen-time
+
+# 📜 License
+
+Code: MIT License – open, remixable, parent-friendly
+Creative content (PDFs, stories, docs, art):
+Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)
+Learn more →
+
 ## 🚀 Quick Start
 
 1. Clone this repo  
